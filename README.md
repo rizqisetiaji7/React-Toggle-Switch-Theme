@@ -10,5 +10,10 @@ In this starter template there are three color schemes such as light, dark, and 
 
 1. Clone from this Repo:
    ```
-      git clone https://github.com/rizqisetiaji7/theme-switcher-react.git
+   git clone https://github.com/rizqisetiaji7/theme-switcher-react.git
+   ```
+2. Open terminal or command prompt, and install the dependencies:
+   ```
+   cd theme-switcher-react
+   npm install
    ```
