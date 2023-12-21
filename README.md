@@ -1,4 +1,5 @@
 # Theme Switcher with React, Tailwindcss, & Vite
 
-This feature is a simple template for changing color themes such as light mode, dark mode, and the default system theme.
-
+This feature is a simple starter template for changing color themes such as light mode, dark mode, or the system default theme.
+Today's modern web or applications have several color theme choices on the page display, this makes the user experience better in comfortably viewing the content on the web or application.
+In this starter template there are three color schemes such as light, dark, and system.
