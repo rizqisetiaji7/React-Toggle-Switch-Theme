@@ -1,6 +1,6 @@
 # Theme Switcher with React, Tailwindcss, & Vite
 
-![The preview!](./src/assets/preview.png){ style="display: block; margin: 0 auto"; }
+![The preview!](./src/assets/preview.png "preview")
 
 This feature is a simple starter template for changing color themes such as light mode, dark mode, or the system default theme.
 
