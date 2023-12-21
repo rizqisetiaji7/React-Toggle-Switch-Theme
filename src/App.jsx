@@ -37,7 +37,7 @@ const App = () => {
 
 	return (
 		<main className="antialiased font-sans py-7 min-h-screen bg-slate-100 dark:bg-slate-900 text-slate-800 dark:text-slate-200 duration-300">
-			<div className="fixed z-10 bottom-5 right-5 bg-slate-200 rounded-md dark:bg-slate-800 flex flex-col lg:flex-row items-center justify-center gap-4 p-3">
+			<div className="fixed z-10 top-5 right-5 bg-slate-200 rounded-md dark:bg-slate-800 flex flex-col lg:flex-row items-center justify-center gap-4 p-3">
 				{
 					themeOptions?.map(({icon, text}) => (
 						<button key={text} onClick={() => setTheme(text)} className="outline-none border-none">
