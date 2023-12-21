@@ -9,4 +9,6 @@ In this starter template there are three color schemes such as light, dark, and 
 ## Installation
 
 1. Clone from this Repo:
-   > git clone https://github.com/rizqisetiaji7/theme-switcher-react.git
+   ```
+      git clone https://github.com/rizqisetiaji7/theme-switcher-react.git
+   ```
