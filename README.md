@@ -12,8 +12,14 @@ In this starter template there are three color schemes such as light, dark, and 
    ```
    git clone https://github.com/rizqisetiaji7/theme-switcher-react.git
    ```
-2. Open terminal or command prompt, and install the dependencies:
+2. Open a terminal or command prompt, and install the dependencies:
    ```
    cd theme-switcher-react
    npm install
    ```
+3. In the terminal or command prompt, start the local server
+   ```
+   npm run dev
+   ```
+
+Access via browser, and runs at the address `http://localhost:5173`
